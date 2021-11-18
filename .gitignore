@@ -1,3 +1,8 @@
 .idea/
 .bin/
+.obj/
 global.json
+WebAPI/appsettings.*
+WebAPI/bin
+WebAPI/Properties
+WebAPI/obj
